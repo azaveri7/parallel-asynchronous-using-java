@@ -21,6 +21,8 @@ test {
 }
 
 dependencies {
+    implementation 'org.junit.jupiter:junit-jupiter:5.4.2'
+
 
     //lombok
     compileOnly 'org.projectlombok:lombok:1.18.10'
